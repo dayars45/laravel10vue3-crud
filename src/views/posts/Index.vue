@@ -71,7 +71,7 @@
                                 </tr>
                                 <tr v-else v-for="(post, index) in posts" :key="index">
                                     <td class="text-center">
-                                        <img :src="post.image" width="200" class="rounded-3"/>
+                                        <img :src="post.image" width="100" height="100" class="rounded-3"/>
                                     </td>
                                     <td>{{ post.title }}</td>
                                     <td>{{ post.content }}</td>

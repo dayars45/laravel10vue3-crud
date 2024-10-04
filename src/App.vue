@@ -23,10 +23,10 @@
           </ul>
           <ul class="navbar-nav ms-auto mb-2 mb-lg-0" role="search">
             <a
-              href="https://santrikoding.com"
+              href="https://www.instagram.com/achmaddayat45/"
               target="_blank"
               class="btn btn-success"
-              >SANTRIKODING.COM</a
+              >LARAVEL10 AND VUE3 CRUD</a
             >
           </ul>
         </div>
